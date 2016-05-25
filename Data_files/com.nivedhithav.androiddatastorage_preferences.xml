@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="name">Jurassic Park</string>
+    <int name="SQL_COUNTER" value="7" />
+    <int name="COUNTER" value="5" />
+    <string name="desc">Movie about dinosaurs.</string>
+    <string name="author">Michael Crichton</string>
+</map>
